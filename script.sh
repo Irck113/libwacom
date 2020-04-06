@@ -1,3 +1,4 @@
+#!/bin/bash
 #Instalacion de dependencias
 sudo apt -y install build-essential && sudo apt -y build-dep libwacom
 sudo apt install -y libgudev-1.0-dev libxml++2.6-dev
